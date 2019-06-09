@@ -1,2 +1,5 @@
 
 这是个VSCode集成Git的测试
+2019-6-9
+初步实现VSCode对Git的操作
+
